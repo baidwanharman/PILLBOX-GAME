@@ -54,8 +54,6 @@ target.color("red")
 
 #wind resistance
 
-wind = turtle.Turtle()
-wind.color("grey")
 
 for i in range(5):
     target.speed(0)
